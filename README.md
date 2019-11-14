@@ -12,12 +12,16 @@ The csv file has header. The data frame has 2,136 rows (index from 1 to 2,136) a
 ### Environment
 
 You are required to have `Python 3.7` environment, with the following packages installed:
-bs4 
-numpy
-pandas
 
+```
 ipython
 jupyter
+bs4
+numpy
+pandas
+```
+
+
 
 ### Generate csv file
 
